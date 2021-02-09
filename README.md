@@ -1,6 +1,7 @@
 # alarm_clock
 
-A new Flutter application.
+Aplikasi Alarm Flutter
+![screenshot](https://github.com/afzalali15/flutter_alarm_clock/raw/master/flutter_clock_app.png)
 
 ## Getting Started
 
